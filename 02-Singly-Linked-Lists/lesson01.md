@@ -1,17 +1,18 @@
-# Lesson1: 
+# Lesson 1: 
 
 # What is a Singly Linked List?
 
 - A data structure the contains a *head*, *tail* and *length* property. 
 - Linked Lists consist of *nodes*.
 - In a singly linked list, each node has a *value* and a *pointer* to another node or if it is at the very end, to _null_.
-- There is no index.
+- There is no indexes.
+<br>
 
-- visual example: elevartor vs stairs.
+A visual example would be: an elevator vs stairs.
 - in an array you can take the elevator to the n index (floor).
 - in a list you have to take the stairs to the n floor.
 
-- check : https://visualgo.net/en
+- check this tool : https://visualgo.net/en
 
 # Comparison of Linked Lists with Arrays
 
