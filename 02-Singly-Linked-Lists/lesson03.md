@@ -1,4 +1,4 @@
-# Lesson3: 
+# Lesson 3 : 
 
 ## Adding a push() method:
 - push = inserting a node at the end of the list.
@@ -59,6 +59,8 @@ class SinglyLinkedList{
 
 var list = new SinglyLinkedList;
 
+//test 
+
 list
 SinglyLinkedList {head: null, tail: null, length: 0}
 
@@ -83,9 +85,7 @@ head: Node {val: 1, next: Node}
 length: 3
 tail: Node {val: 3, next: null}
 __proto__: Object
-
-​
 ```
 
-- Pushing into a singly linked list is FAST and EASY, doent matter if there 0, 1 or a million items.
-- we just take the curernt tail, update its pointer and move the tail one spot over.
+- Pushing into a singly linked list is FAST and EASY, dosen't matter if there 0, 1 or a million items.
+- we simply take the current tail, update it's next-pointer and move the tail one spot over.
